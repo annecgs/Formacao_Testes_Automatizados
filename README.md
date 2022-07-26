@@ -14,3 +14,6 @@ Para otimizar tempo e evitar situações indesejadas, os famosos bugs das aplica
 <li>Testes no Android: Mocks e integrações</li>
 <li>Android com Espresso parte 1: teste de interface do usuário</li>
 <li>Android com Espresso parte 2: testes de fluxos complexos</li>
+
+<h2>Links de pesquisas sobre testes</h2>
+<a href="https://riggaroo.dev/retrofit-2-mocking-http-responses/">Testes para tratativa de erros</a>
