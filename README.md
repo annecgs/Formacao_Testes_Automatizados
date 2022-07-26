@@ -16,4 +16,5 @@ Para otimizar tempo e evitar situações indesejadas, os famosos bugs das aplica
 <li>Android com Espresso parte 2: testes de fluxos complexos</li>
 
 <h2>Links de pesquisas sobre testes</h2>
-<a href="https://riggaroo.dev/retrofit-2-mocking-http-responses/">Testes para tratativa de erros</a>
+<a href="https://riggaroo.dev/retrofit-2-mocking-http-responses/">Testes para tratativa de erros</a></br>
+<a href="https://proandroiddev.com/testing-retrofit-converter-with-mock-webserver-50f3e1f54013">Exemplo de teste para tratativa de erros</a>
