@@ -20,3 +20,4 @@ Para otimizar tempo e evitar situações indesejadas, os famosos bugs das aplica
 <a href="https://proandroiddev.com/testing-retrofit-converter-with-mock-webserver-50f3e1f54013">Exemplo de teste para tratativa de erros</a></br>
 <a href="https://www.youtube.com/watch?v=kqX0WT_k0-o">Exemplo testes coroutines kotlin</a></br>
 <a href="https://developer.android.com/training/testing/espresso">Exemplos com espresso</a></br>
+<a href="https://developer.android.com/guide/fragments/test">Testes em fragmentos</a></br>
